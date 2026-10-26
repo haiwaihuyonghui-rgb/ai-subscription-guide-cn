@@ -1,6 +1,6 @@
 # AI 会员订阅国内指南（ChatGPT Plus / Claude Pro / Gemini / Grok）
 
-> 最后更新：2026-10-26 · 去掉"代充对比表"链接和虚拟卡平台的具体名字，只保留通用风险说明。
+> 最后更新：2026-10-26（第二次）· ChatGPT、Claude 官方价复核；xAI 一行按官方定价页更正为三合一四档（原来的 SuperGrok Heavy 已不是现行档位）；文末新增"复测记录"。
 
 > 人在国内、没有海外卡，想开 ChatGPT Plus、Claude Pro（含 Claude Code）、Google AI Pro 或 SuperGrok：这份导读把几条路线的取舍、怎么判断代充靠不靠谱、常见报错去哪查，一次说清。只整理公开可核实的信息，不放价格表、不放购买入口。
 
@@ -42,20 +42,20 @@
 - **ChatGPT**：五条路线都有人走；Plus 和 Pro 的 App 内订阅价格由应用商店决定，和网页版可能不同。
 - **Claude**：Pro 包含 Claude Code；Max 两档只能月付；iOS App 内也可订阅。年付 Pro 要一次交一年，拿不准是否长期用的先按月。
 - **Gemini（Google AI Pro / Ultra）**：通过 Google One 订阅，需要一个付款方式所在地区可用的 Google 账号；官方页面按地区显示本地货币。
-- **Grok（SuperGrok）**：在 grok.com 或 X 应用内订阅；X Premium 系列也带 Grok 权益，两套订阅不要重复买。
+- **Grok（Premium，原 SuperGrok）**：在 grok.com / x.ai 订阅；现在 Grok 会员和 X 会员已合成一个订阅（三合一），不用再分开买。xAI 定价页写明不授权任何第三方卖家（2026-10-26 核对）。
 
 ## 四家官方价格（美元）
 
 | 产品 | 档位 | 官方标价 | 来源 | 核对日期 |
 |---|---|---|---|---|
 | ChatGPT | Go | $8/月（部分地区按地区定价；官方注明可能含广告） | [OpenAI 定价页](https://openai.com/chatgpt/pricing/) | 2026-10-17（10-20 页面拒绝抓取，未能复核） |
-| ChatGPT | Plus | $20/月 | [What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus) | 2026-10-17 |
-| ChatGPT | Pro 100 / 200 / 500 | $100 / $200 / $500 /月，三档用量不同 | [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) | 2026-10-17 |
-| Claude | Pro | $20/月；年付一次交 $200，折合 $17/月 | [claude.com/pricing](https://claude.com/pricing) | 2026-10-20 |
-| Claude | Max 5x / Max 20x | $100/月 起（5x）；$200/月（20x）；只能月付；页面注明不含税 | [claude.com/pricing](https://claude.com/pricing)、[What is the Max plan?](https://support.claude.com/en/articles/11049741-what-is-the-max-plan) | 2026-10-20 |
+| ChatGPT | Plus | $20/月 | [What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus) | 2026-10-26 |
+| ChatGPT | Pro 100 / 200 / 500 | $100 / $200 / $500 /月，三档用量不同 | [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) | 2026-10-26 |
+| Claude | Pro | $20/月；年付一次交 $200，折合 $17/月 | [claude.com/pricing](https://claude.com/pricing) | 2026-10-26 |
+| Claude | Max 5x / Max 20x | $100/月 起（5x）；$200/月（20x）；只能月付；页面注明不含税 | [claude.com/pricing](https://claude.com/pricing)、[What is the Max plan?](https://support.claude.com/en/articles/11049741-what-is-the-max-plan) | 2026-10-26 |
 | Google | AI Pro | $19.99/月（美国价） | [Google AI 方案页](https://one.google.com/about/google-ai-plans/)（官方页按地区显示本地货币，美元数字取自 2026 年 6 月后的媒体报道，待官方复核） | 2026-10-20 |
 | Google | AI Ultra | $99.99/月（5x）和 $199.99/月（20x）两档（2026 年 5 月调整后） | 同上，待官方复核 | 2026-10-20 |
-| xAI | SuperGrok / SuperGrok Heavy | $30/月 / $300/月 | 第三方整理（[x.ai/grok](https://x.ai/grok) 10-20 拒绝抓取，待官方复核） | 2026-10-20 |
+| xAI | Plus / Premium（原 SuperGrok）/ Super / Ultra | $8 / $30 / $100 / $200 /月，不含税；Grok、Cursor、X 会员三合一，用量池每周刷新；官方写明不授权任何第三方卖家 | [x.ai/pricing](https://x.ai/pricing) | 2026-10-26 |
 
 Google 和 xAI 两行是第三方整理，标了"待官方复核"，订阅前请到官方页面确认。
 
@@ -154,3 +154,15 @@ Google 和 xAI 两行是第三方整理，标了"待官方复核"，订阅前请
 作者"瑶瑶ai训练师"是做 AI 内容的自媒体博主，同时提供 AI 会员代充服务，这一点如实说明，读者可以据此判断本文立场。本仓库只整理公开信息和作者的售后经验，不代表任何厂商。作者是谁、交易方式和售后规则见 [瑶瑶ai训练师靠谱吗](https://kw.yaoyao.chat/guide/yaoyao-kaopu.html)。作者没有发布过任何桌面软件、手机 App、浏览器插件或"账号切换器"，本账号下只有文字教程仓库。
 
 文字内容采用 [CC BY-NC-SA 4.0](LICENSE) 许可：可以转载和改编，须署名、非商业使用、以相同方式共享。纠错和补充欢迎开 Issue 或 Pull Request。
+
+## 复测记录
+
+按日期倒序。每次只记真实做过的核对；官方出新模型、改价格时补一行。
+
+| 日期 | 核对了什么 | 结果 |
+|---|---|---|
+| 2026-10-26 | **官方价格：** OpenAI 帮助中心 What is ChatGPT Plus、About ChatGPT Pro tiers | Plus 20 美元/月、只能月付；Pro 100 / 200 / 500 美元三档，只有 Pro 500 含 Ultrafast；Pro 200 老用户旧额度到 10-29——与本页一致 |
+| 2026-10-26 | **官方政策：** 支持地区列表、定价页付款 FAQ | 大陆、香港、澳门不在支持列表，台湾在；官网付款写"任何主要信用卡" |
+| 2026-10-26 | **官方价格：** Claude 定价页、帮助中心 What is the Max plan | Pro 月付 20 美元 / 年付折合 17 美元（一次 200 美元）；Max 5x 100、Max 20x 200 美元；Max 含每月 API 额度；官方注明手机端价格可能不同——与本页价格表一致 |
+| 2026-10-26 | **官方政策：** Anthropic 支持地区列表、账单 FAQ、赠送订阅文章 | 大陆、香港、澳门不在支持列表，台湾在；App 内订阅由苹果 / 谷歌管理；赠送订阅暂停购买 |
+| 2026-10-26 | **xAI 官方价格与政策：** x.ai/pricing | 三合一四档 8 / 30 / 100 / 200 美元每月；原表"SuperGrok / SuperGrok Heavy 30 / 300 美元"已过时，本次更正；官方 FAQ 写明不授权任何经销商或第三方卖家 |
