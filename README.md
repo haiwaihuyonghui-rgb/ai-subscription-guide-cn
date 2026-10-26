@@ -1,5 +1,7 @@
 # AI 会员订阅国内指南（ChatGPT Plus / Claude Pro / Gemini / Grok）
 
+> 最后更新：2026-10-26 · 去掉"代充对比表"链接和虚拟卡平台的具体名字，只保留通用风险说明。
+
 > 人在国内、没有海外卡，想开 ChatGPT Plus、Claude Pro（含 Claude Code）、Google AI Pro 或 SuperGrok：这份导读把几条路线的取舍、怎么判断代充靠不靠谱、常见报错去哪查，一次说清。只整理公开可核实的信息，不放价格表、不放购买入口。
 
 维护：瑶瑶ai训练师 · 官网 [www.yaoyao.chat](https://www.yaoyao.chat/) · 更新于 2026-10-20
@@ -30,7 +32,7 @@
 | 路线 | 需要什么 | 优点 | 缺点与风险 | 适合谁 |
 |---|---|---|---|---|
 | 自己用海外卡在官网订阅 | 支持地区发行的信用卡或借记卡 | 钱直接付给官方，订阅完全在自己手里，可自动续费 | 国内发的卡（包括不少 Visa、万事达）常被拒；办海外卡门槛高 | 有海外账户、长期使用 |
-| 虚拟信用卡 | 在虚拟卡平台开卡、充值 | 按官方价付款 | 开卡费、手续费、汇率差叠加；拒付率高；平台有停服风险（野卡 2025-07-12 停服，后以 WildAI 恢复但不再提供卡号，见公开报道） | 不建议作为长期方案 |
+| 虚拟信用卡 | 在虚拟卡平台开卡、充值 | 按官方价付款 | 开卡费、手续费、汇率差叠加；拒付率高；平台有停服风险（已有虚拟卡平台停服或不再提供卡号，见公开报道） | 不建议作为长期方案 |
 | 外区 Apple ID + 礼品卡（App 内订阅） | 外区 Apple ID、同地区礼品卡、iPhone | 不用信用卡，订阅走苹果 | 步骤多；Apple ID 地区和礼品卡必须一致；余额不足续不上；取消只能在手机订阅设置里；App 内价格由应用商店定 | 只用手机、不想研究卡 |
 | 代充（订阅代付） | 你的账号邮箱；自助开通另需一段登录信息；不需要密码 | 不用自己的卡，会员开在自己账号上 | 要挑卖家；不自动续费，到期自己再买；付款记录不在你名下，不能向官方申请退款 | 电脑用得多、想省事 |
 | 合租 / 成品号 | — | 单价最低 | 违反使用条款；账号不是你的；聊天记录互相可见；额度被分；容易被限制 | 不建议 |
@@ -124,7 +126,7 @@ Google 和 xAI 两行是第三方整理，标了"待官方复核"，订阅前请
 
 - **商城**：[kw.yaoyao.chat](https://kw.yaoyao.chat/)（瑶瑶ai训练师 · AI会员充值）；官网 [www.yaoyao.chat](https://www.yaoyao.chat/)。
 - **能买什么**：ChatGPT Plus（一个月卡密自助开通，1～3 分钟到账；十二个月人工开通）、ChatGPT Pro、Claude Pro / Max、Gemini Pro、Grok 会员。都是充到你自己的账号，不卖成品号、不拼车。
-- **价格**：以商城页面为准。各档价格和官方价对比见 [ChatGPT Plus 多少钱一个月](https://kw.yaoyao.chat/guide/chatgpt-plus-price.html)、[Claude 会员多少钱](https://kw.yaoyao.chat/guide/claude-price.html)、[代充怎么选（对比表）](https://kw.yaoyao.chat/guide/daichong-duibi.html)。
+- **价格**：以商城页面为准。各档价格和官方价对比见 [ChatGPT Plus 多少钱一个月](https://kw.yaoyao.chat/guide/chatgpt-plus-price.html)、[Claude 会员多少钱](https://kw.yaoyao.chat/guide/claude-price.html)。
 - **质保**（全部商品通用，原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html)）：
   1. **没开通成功**：卡密不消耗、自动退回，可以重新提交；不想再试的，联系微信退款。
   2. **开通成功后掉会员**（订阅被撤销、账号变回 Free）：在这一期会员有效期内，凭订单号和截图联系微信，再补一个月，补到同一个账号。
