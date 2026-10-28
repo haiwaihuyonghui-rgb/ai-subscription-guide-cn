@@ -10,10 +10,10 @@
 两家官方的支持地区列表都不含中国大陆。OpenAI 帮助中心写明从未列出的地区访问或提供访问，账号可能被封或暂停；Anthropic 写明未列出的地区不受支持。这是事实层面的回答，本仓库不提供绕过方法。真要用，网络要稳定在一个支持的地区，不要来回切换。
 
 **2. 用国内的 Visa / 万事达卡能付吗？**
-经常被拒。网页端只收支持地区发行的卡，发卡地区是关键，卡组织不是。见 [银行卡不能用怎么办](https://kw.yaoyao.chat/guide/yinhangka.html)。
+经常被拒。网页端只收支持地区发行的卡，发卡地区是关键，卡组织不是。见同一作者的 [gpt-chongzhi 报错第 2 条](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi#报错--常见问题大全)。
 
 **3. 能用支付宝等国内支付方式直接付给 OpenAI 吗？**
-官网不支持。能用国内支付方式的，都是第三方渠道（代充、礼品卡等），付给的是第三方，不是 OpenAI。见 [ChatGPT 可以用支付宝吗](https://kw.yaoyao.chat/guide/chatgpt-zhifubao.html)。
+官网不支持。能用国内支付方式的，都是第三方渠道（代充、礼品卡等），付给的是第三方，不是 OpenAI。见同一作者的 [chatgpt-plus-wu-xinyongka](https://github.com/haiwaihuyonghui-rgb/chatgpt-plus-wu-xinyongka#先说结论官网能不能用支付宝--微信)。
 
 ## 关于代充
 
@@ -33,7 +33,7 @@
 不会，没有绑你的卡。到期前自己再买一次。好处是不会被莫名扣款，坏处是要自己记到期日。
 
 **9. 代充突然停了、提交失败怎么办？**
-多数是充值通道补额度或风控暂停，卡密通常会退回，隔一段时间再试；连续重复提交容易触发暂停。见 [代充为啥突然停了](https://kw.yaoyao.chat/guide/daichong-tingle.html)、[Plus 充值失败 6 种情况](https://kw.yaoyao.chat/guide/plus-shibai.html)。
+多数是充值通道补额度或风控暂停，卡密通常会退回，隔一段时间再试；连续重复提交容易触发暂停。见 [gpt-chongzhi 报错第 12 条](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi#报错--常见问题大全)。
 
 **10. 代充能开发票吗？**
 各家不同，下单前直接问卖家，不能开的也要给订单号和电子账单之类的凭证。本仓库不替任何卖家承诺。
@@ -41,7 +41,7 @@
 ## 关于档位
 
 **11. Plus 和 Pro 怎么选？**
-先买 Plus 用一个月；一周里好几天提示额度用完，再看 Pro。Pro 分 100 / 200 / 500 三档（官方帮助中心 [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)），用量不同。见 [Plus 和 Pro 有什么区别](https://kw.yaoyao.chat/guide/plus-vs-pro.html)。
+先买 Plus 用一个月；一周里好几天提示额度用完，再看 Pro。Pro 分 100 / 200 / 500 三档（官方帮助中心 [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)），用量不同。见同一作者的 [chatgpt-pro-100](https://github.com/haiwaihuyonghui-rgb/chatgpt-pro-100#pro-100-和-plus-差在哪)。
 
 **12. Claude Pro 和 Max 怎么选？**
 先 Pro；每天用 Claude Code 写几个小时或经常撞额度，升 Max 5x；还不够再 20x。Max 只能月付。见 [docs/claude.md](claude.md)。
@@ -53,7 +53,7 @@
 年付便宜但要一次交一年，中途退费以官方规则为准，代充的年付更要看卖家质保能不能覆盖一整年。拿不准就按月。
 
 **15. 同一个账号能几个人用吗？**
-OpenAI 使用条款不允许共享账号凭证；Anthropic 用量按账号算。多人异地同时登录是账号被限制的常见原因。见 [ChatGPT 会员能几个人共享](https://kw.yaoyao.chat/guide/chatgpt-gongxiang.html)。
+OpenAI 使用条款不允许共享账号凭证；Anthropic 用量按账号算。多人异地同时登录是账号被限制的常见原因。
 
 ## 关于本仓库
 

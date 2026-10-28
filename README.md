@@ -1,25 +1,23 @@
-**📚 全部教程合集：[国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集 2026](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)**（本文已并入合集 [AI 会员订阅国内指南](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io/blob/main/docs/ai-subscription.md)，16 章一个仓库，价格每周核对；网页版 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)）
-
 # AI 会员订阅国内指南（ChatGPT Plus / Claude Pro / Gemini / Grok）
 
-> 最后更新：2026-10-27（第二次）· Grok Premium ¥159 → ¥239，另有 Plus / Super / Ultra 三档；此前：相关攻略加组织目录页链接（yaoyao-ai-trainer.github.io）
+> 最后更新：2026-10-28 · 合集导流行移到快速购买下面，自家商城链接减到 5 个以内，开通时间统一写"平均 2 分钟"；许可证改为 CC BY-ND 4.0。
 
 > 人在国内、没有海外卡，想开 ChatGPT Plus、Claude Pro（含 Claude Code）、Google AI Pro 或 SuperGrok：这份导读把几条路线的取舍、怎么判断代充靠不靠谱、常见报错去哪查，一次说清。只整理公开可核实的信息；正文只写官方价，作者自营商城的价格和入口只放在开头"快速购买"一小块和"在哪买"一节，单独标明。
 
-维护：瑶瑶ai训练师 · 官网 [www.yaoyao.chat](https://www.yaoyao.chat/) · 更新于 2026-10-27
+维护：瑶瑶ai训练师 · 官网 `www.yaoyao.chat` · 更新于 2026-10-28
 
 本仓库是非官方整理，与 OpenAI、Anthropic、Google、xAI 没有任何隶属或合作关系，文中品牌名仅用于说明。各家的价格、地区政策和条款随时会变，以官方页面为准；文中每个数字都标了来源和核对日期，发现过期请开 Issue。
 
 <!-- 快速购买:开始（周更脚本会核对这里的价格） -->
-**快速购买**（作者自营商城 kw.yaoyao.chat，人民币，2026-10-27 核对，实际以商品页为准）：
+**快速购买**（作者自营商城 kw.yaoyao.chat，人民币，2026-10-28 核对，实际以商品页为准）：
 
-- ChatGPT Pro（100 美金档位）一个月 ¥699 → [kw.yaoyao.chat/item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=ai-subscription-guide-cn)
-- ChatGPT Plus 一个月 ¥129 → [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=ai-subscription-guide-cn)
-- Claude Pro 一个月 ¥159 → [kw.yaoyao.chat/item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=ai-subscription-guide-cn) · Grok Premium 一个月 ¥239 → [kw.yaoyao.chat/item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=ai-subscription-guide-cn) · Gemini Pro 十八个月 ¥99 → [kw.yaoyao.chat/item/11](https://kw.yaoyao.chat/item/11?utm_source=github&utm_medium=readme&utm_campaign=ai-subscription-guide-cn)
+- ChatGPT Pro（100 美金档位）一个月 ¥699 → [kw.yaoyao.chat/item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=ai-subscription-guide-cn)（同一个下单页可选 200 / 500 美金档位 ¥1399 / ¥3499）
+- ChatGPT Plus 一个月 ¥129 → [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=ai-subscription-guide-cn)（同一个下单页可选三个月 ¥387、六个月 ¥774、十二个月 ¥1548，都是 ¥129 × 月数）
+- Claude Pro 一个月 ¥159 → [kw.yaoyao.chat/item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=ai-subscription-guide-cn)（同一个下单页可选 Max 5x ¥900 / Max 20x ¥1800）；另有 Grok Premium 一个月 ¥239（kw.yaoyao.chat/item/10）、Gemini Pro 十八个月 ¥99（kw.yaoyao.chat/item/11）
 - 320万粉丝博主瑶瑶本人经营 · 开通失败可退 · 客服 09:00–24:00（北京时间）
-
-你是从哪里知道这个仓库的？点一下帮我们统计：[搜索引擎](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=ai-subscription-guide-cn&utm_content=search) · [AI 推荐](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=ai-subscription-guide-cn&utm_content=ai) · [朋友/群里发的](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=ai-subscription-guide-cn&utm_content=friend) · [GitHub 站内](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=ai-subscription-guide-cn&utm_content=github)
 <!-- 快速购买:结束 -->
+
+更多教程见：[全部教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)
 
 ## 目录
 
@@ -30,8 +28,10 @@
 - [常见报错速查](#常见报错速查)
 - [常见问题 FAQ](#常见问题-faq)
 - [子文档](#子文档)
+- [在哪买、质保怎么算](#在哪买质保怎么算)
 - [更新记录](#更新记录)
 - [关于与许可](#关于与许可)
+- [复测记录](#复测记录)
 - [相关攻略](#相关攻略)
 
 ## 先看三件事：地区、条款、价格
@@ -91,26 +91,25 @@ Google 和 xAI 两行是第三方整理，标了"待官方复核"，订阅前请
 
 ## 常见报错速查
 
-下面的链接指向作者整理的教程页，每页有更新日期；标了"官方"的是厂商文档。
+最后一列链接到同一作者的 GitHub 攻略仓库里对应的章节（"第 N 条"是该仓库报错大全里的序号，每条附官方出处）；标了"官方"的是厂商文档。
 
 | 你看到的 | 多半是 | 看这篇 |
 |---|---|---|
-| 付款提示"请核对账单信息后重试" / Your card was declined | 卡不在支持地区，或账单地址和发卡行登记的不一致 | [账单信息无效怎么办](https://kw.yaoyao.chat/guide/chatgpt-billing-invalid.html)、[账单地址怎么填](https://kw.yaoyao.chat/guide/zhangdan-dizhi.html) |
-| 国内银行卡付不了 | 发卡地区不受支持 | [银行卡不能用怎么办](https://kw.yaoyao.chat/guide/yinhangka.html)、[可以用支付宝吗](https://kw.yaoyao.chat/guide/chatgpt-zhifubao.html) |
-| 显示"已有订阅 / 无法升级" | 账号上已有一份订阅，Plus 升 Pro 要补差价 | [已有订阅怎么办](https://kw.yaoyao.chat/guide/plus-sheng-pro.html) |
-| 代充提交失败 | 登录信息过期、复制不完整、通道风控等 6 种情况 | [Plus 充值失败 6 种情况](https://kw.yaoyao.chat/guide/plus-shibai.html)、[卡密怎么用](https://kw.yaoyao.chat/guide/plus-kami.html) |
-| 用手机号验证码登录的账号怎么开 Plus | 登录方式不同，开通流程不同 | [手机验证码登录怎么开 Plus](https://kw.yaoyao.chat/guide/plus-yanzhengma.html) |
-| Plus / Codex 提示额度用完 | 5 小时窗口或每周上限 | [Plus 每天能用多少](https://kw.yaoyao.chat/guide/plus-edu.html)、[Codex 额度用完了怎么办](https://kw.yaoyao.chat/guide/codex-edu-yongwan.html) |
-| Claude 充了还是 Free Plan | 登录了别的邮箱；钱充到了 API 平台；付款失败被降级 | [Claude 显示 Free Plan 怎么办](https://kw.yaoyao.chat/guide/claude-free-plan.html)、官方 [Paid plan billing FAQs](https://support.claude.com/en/articles/8325618-paid-plan-billing-faqs) |
-| Claude Code 提示去充 API / Credit balance is too low | 登录成了 Console 账号，或环境变量里有旧的 ANTHROPIC_API_KEY | [Claude Code 怎么收费](https://kw.yaoyao.chat/guide/claude-code.html)、官方 [Claude Code 错误参考](https://code.claude.com/docs/en/errors) |
-| Claude 提示 session limit / weekly limit | 5 小时窗口或每周额度用完 | [Claude Pro 有多少额度](https://kw.yaoyao.chat/guide/claude-pro-edu.html)、官方 [How do usage and length limits work?](https://support.claude.com/en/articles/11647753-how-do-usage-and-length-limits-work) |
-| 账号被停用 | 共享、频繁切换地区、付款被撤销、违规内容 | [ChatGPT 封号原因](https://kw.yaoyao.chat/guide/chatgpt-fenghao.html)、[Claude 封号了怎么办](https://kw.yaoyao.chat/guide/claude-fenghao.html) |
-| 想取消自动续费 | 自己绑卡的在设置里取消；App 内订阅在手机订阅设置里取消 | [自动续费怎么取消](https://kw.yaoyao.chat/guide/cancel-renew.html) |
-| 想退款 | 官方条款下订阅费一般不退；代充的不能向官方申请 | [ChatGPT 订阅能退款吗](https://kw.yaoyao.chat/guide/chatgpt-tuikuan.html) |
-| 代充突然停了 | 通道补额度、风控或卖家自身原因 | [代充为啥突然停了](https://kw.yaoyao.chat/guide/daichong-tingle.html) |
-| Codex 想切换多个账号 | 官方本身支持 | [Codex 怎么切换多个账号](https://kw.yaoyao.chat/guide/codex-duozhanghao.html) |
+| 付款提示"请核对账单信息后重试" / Your card was declined | 卡不在支持地区，或账单地址和发卡行登记的不一致 | [gpt-chongzhi 第 1 条](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi#报错--常见问题大全) |
+| 国内银行卡付不了 | 发卡地区不受支持 | [gpt-chongzhi 第 2 条](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi#报错--常见问题大全)、支付宝 / 微信能不能付见 [chatgpt-plus-wu-xinyongka](https://github.com/haiwaihuyonghui-rgb/chatgpt-plus-wu-xinyongka) |
+| 显示"已有订阅 / 无法升级" | 账号上已有一份订阅，Plus 升 Pro 要补差价 | [gpt-chongzhi 第 3 条](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi#报错--常见问题大全) |
+| 代充提交失败 | 登录信息过期、复制不完整、通道风控等 6 种情况 | [gpt-chongzhi 第 12 条](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi#报错--常见问题大全) |
+| Plus / Codex 提示额度用完 | 5 小时窗口或每周上限 | [gpt-chongzhi 第 9 条](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi#报错--常见问题大全)、[codex-cli-guide-cn](https://github.com/haiwaihuyonghui-rgb/codex-cli-guide-cn#plus-和-pro-的额度差别) |
+| Claude 充了还是 Free Plan | 登录了别的邮箱；钱充到了 API 平台；付款失败被降级 | [claude-chongzhi 第 1、2 条](https://github.com/haiwaihuyonghui-rgb/claude-chongzhi#报错--常见问题大全)、官方 [Paid plan billing FAQs](https://support.claude.com/en/articles/8325618-paid-plan-billing-faqs) |
+| Claude Code 提示去充 API / Credit balance is too low | 登录成了 Console 账号，或环境变量里有旧的 ANTHROPIC_API_KEY | [claude-code-guide-cn](https://github.com/haiwaihuyonghui-rgb/claude-code-guide-cn#报错--常见问题大全)、官方 [Claude Code 错误参考](https://code.claude.com/docs/en/errors) |
+| Claude 提示 session limit / weekly limit | 5 小时窗口或每周额度用完 | [claude-chongzhi 第 3 条](https://github.com/haiwaihuyonghui-rgb/claude-chongzhi#报错--常见问题大全)、官方 [How do usage and length limits work?](https://support.claude.com/en/articles/11647753-how-do-usage-and-length-limits-work) |
+| 账号被停用 | 共享、频繁切换地区、付款被撤销、违规内容 | ChatGPT 见 [gpt-chongzhi 第 11 条](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi#报错--常见问题大全)、Claude 见 [claude-chongzhi 第 11 条](https://github.com/haiwaihuyonghui-rgb/claude-chongzhi#报错--常见问题大全) |
+| 想取消自动续费 | 自己绑卡的在设置里取消；App 内订阅在手机订阅设置里取消 | [gpt-chongzhi 第 7 条](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi#报错--常见问题大全) |
+| 想退款 | 官方条款下订阅费一般不退；代充的不能向官方申请 | [gpt-chongzhi 第 7 条](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi#报错--常见问题大全) |
+| 代充突然停了 | 通道补额度、风控或卖家自身原因 | [gpt-chongzhi 第 12 条](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi#报错--常见问题大全) |
+| Codex 想切换多个账号 | 官方本身支持 | [codex-cli-guide-cn](https://github.com/haiwaihuyonghui-rgb/codex-cli-guide-cn#多账号切换官方方法) |
 
-更多：[教程目录（45 篇）](https://kw.yaoyao.chat/guide/)。
+更多报错见文末 [相关攻略](#相关攻略) 里对应的仓库。
 
 ## 常见问题 FAQ
 
@@ -137,27 +136,28 @@ Google 和 xAI 两行是第三方整理，标了"待官方复核"，订阅前请
 
 作者"瑶瑶ai训练师"自己经营一家 AI 会员代充商城，这里如实写明，读者可以据此判断本文立场。
 
-- **商城**：[kw.yaoyao.chat](https://kw.yaoyao.chat/)（瑶瑶ai训练师 · AI会员充值）；官网 [www.yaoyao.chat](https://www.yaoyao.chat/)。
-- **能买什么**：ChatGPT Plus（一个月卡密自助开通，1～3 分钟到账；十二个月人工开通）、ChatGPT Pro、Claude Pro / Max、Gemini Pro、Grok 会员。都是充到你自己的账号，不卖成品号、不拼车。
-- **价格**：以商城页面为准。各档价格和官方价对比见 [ChatGPT Plus 多少钱一个月](https://kw.yaoyao.chat/guide/chatgpt-plus-price.html)、[Claude 会员多少钱](https://kw.yaoyao.chat/guide/claude-price.html)。
-- **质保**（全部商品通用，原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html)）：
-  1. **没开通成功**：卡密不消耗、自动退回，可以重新提交；不想再试的，联系微信退款。
+- **商城**：[kw.yaoyao.chat](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=ai-subscription-guide-cn)（瑶瑶ai训练师 · AI会员充值）；官网 `www.yaoyao.chat`。
+- **能买什么**：ChatGPT Plus（一个月卡密自助开通，平均 2 分钟到账；十二个月付款后在订单页填开通信息，平均 2 分钟开通好）、ChatGPT Pro、Claude Pro / Max、Gemini Pro、Grok 会员。都是充到你自己的账号，不卖成品号、不拼车。
+- **价格**：见开头"快速购买"，以商城页面为准。四家官方价和代充价放在一起比，见同一作者的 [chatgpt-jiage-duibi](https://github.com/haiwaihuyonghui-rgb/chatgpt-jiage-duibi)。
+- **质保**（全部商品通用，原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=readme&utm_campaign=ai-subscription-guide-cn)）：
+  1. **没开通成功**：ChatGPT Plus 一个月卡密不消耗、自动退回，可以重新提交；不想再试的，联系微信退款。其他商品没开通成功，重新开通或退款。
   2. **开通成功后掉会员**（订阅被撤销、账号变回 Free）：在这一期会员有效期内，凭订单号和截图联系微信，再补一个月，补到同一个账号。
   3. **账号被封 / 停用**：原因多在账号使用、网络环境或付款侧，不在质保范围、不退款；ChatGPT 封号可协助重新注册，Claude 封号协助申诉。
 - **售后**：只找瑶瑶本人微信 yao77380。
-- **怎么分辨真假**：瑶瑶的网址只有 www.yaoyao.chat、kw.yaoyao.chat、cz.yaoyao.chat 三个；其他自称"瑶瑶"的网站、账号或软件都不是本人。
+- **怎么分辨真假**：瑶瑶的网址只有 `www.yaoyao.chat`、`kw.yaoyao.chat`、`cz.yaoyao.chat` 三个；其他自称"瑶瑶"的网站、账号或软件都不是本人。
 
 ## 更新记录
 
+- 2026-10-28：去掉开头的来源小调查；合集导流行移到快速购买下面；自家商城链接减到 5 个以内，"常见报错速查"最后一列改为链接同一作者的 GitHub 仓库（删去没有对应仓库的"手机号验证码登录"一行）；开通时间统一写"平均 2 分钟"；许可证改为 CC BY-ND 4.0。
 - 2026-10-27：开头加"快速购买"（作者商城几个商品）和来源小调查；"相关仓库"改为文末"相关攻略"，互链全部 10 个简体攻略仓库。
 - 2026-10-21：新增「在哪买、质保怎么算」，如实写明作者自营的代充商城和质保规则。
 - 2026-10-20：首次整理。四家价格表（Google、xAI 两行待官方复核）、五条路线对比、代充判断 8 条、报错速查 14 条、FAQ 10 条、三个子文档。
 
 ## 关于与许可
 
-作者"瑶瑶ai训练师"是做 AI 内容的自媒体博主，同时提供 AI 会员代充服务，这一点如实说明，读者可以据此判断本文立场。本仓库只整理公开信息和作者的售后经验，不代表任何厂商。作者是谁、交易方式和售后规则见 [瑶瑶ai训练师靠谱吗](https://kw.yaoyao.chat/guide/yaoyao-kaopu.html)。作者没有发布过任何桌面软件、手机 App、浏览器插件或"账号切换器"，本账号下只有文字教程仓库。
+作者"瑶瑶ai训练师"是做 AI 内容的自媒体博主，同时提供 AI 会员代充服务，这一点如实说明，读者可以据此判断本文立场。本仓库只整理公开信息和作者的售后经验，不代表任何厂商。作者没有发布过任何桌面软件、手机 App、浏览器插件或"账号切换器"，本账号下只有文字教程仓库。
 
-文字内容采用 [CC BY-NC-SA 4.0](LICENSE) 许可：可以转载和改编，须署名、非商业使用、以相同方式共享。纠错和补充欢迎开 Issue 或 Pull Request。
+自 2026-10-28 起的版本采用 [CC BY-ND 4.0](LICENSE) 许可：可以原样转载，须署名"瑶瑶ai训练师"并附原文链接 https://github.com/haiwaihuyonghui-rgb/ai-subscription-guide-cn ；不许改编、改写后发布。纠错和补充欢迎开 Issue 或 Pull Request。
 
 ## 复测记录
 
@@ -165,6 +165,7 @@ Google 和 xAI 两行是第三方整理，标了"待官方复核"，订阅前请
 
 | 日期 | 核对了什么 | 结果 |
 |---|---|---|
+| 2026-10-28 | **价格：** 按作者商城事实卡 yy-facts.json（每 15 分钟从商城数据库生成）核对全部商品 | 与本页"快速购买"一致，无变动；开通时间统一写"平均 2 分钟" |
 | 2026-10-27 | **价格：** curl 作者商城商品页 item/10（含 ?d=plus / super / ultra）和 llms.txt | Grok 改为四档：Plus ¥70、Premium ¥239（原 ¥159）、Super ¥749、Ultra ¥1499，同一个下单页选档位；商品页开通条件改为"账号不是会员（免费版）就能充"，不再要求半价优惠；本页价格表已同步 |
 | 2026-10-27 | **价格：** curl 作者商城商品页 item/5、7、10、11、12、13、14、17、18、19 和 llms.txt | 与本页"快速购买"一致（Pro 100 美金档位 ¥699、Plus ¥129、Claude Pro ¥159、Grok ¥159、Gemini 18 个月 ¥99），十个商品均无变动 |
 | 2026-10-26 | **官方价格：** OpenAI 帮助中心 What is ChatGPT Plus、About ChatGPT Pro tiers | Plus 20 美元/月、只能月付；Pro 100 / 200 / 500 美元三档，只有 Pro 500 含 Ultrafast；Pro 200 老用户旧额度到 10-29——与本页一致 |
@@ -186,4 +187,4 @@ Google 和 xAI 两行是第三方整理，标了"待官方复核"，订阅前请
 - [claude-chongzhi](https://github.com/haiwaihuyonghui-rgb/claude-chongzhi)：Claude 充值平台怎么选：Pro / Max 怎么选、充值后显示 Free Plan 排查
 - [claude-code-guide-cn](https://github.com/haiwaihuyonghui-rgb/claude-code-guide-cn)：Claude Code 国内使用指南：安装、登录、Pro / Max 额度、常见报错
 - [grok-premium](https://github.com/haiwaihuyonghui-rgb/grok-premium)：Grok Premium（原 SuperGrok）国内怎么买：官方四档、三合一说明、四种开通方法
-- 组织目录页 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)：以后新攻略会交替放在组织号 yaoyao-ai-trainer 下，这个页面汇总两边全部攻略。
+- [全部教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)：组织号 yaoyao-ai-trainer 下的合集目录，每章是摘要，正文以各仓库为准。

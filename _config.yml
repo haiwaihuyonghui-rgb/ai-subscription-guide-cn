@@ -4,3 +4,22 @@ lang: zh-CN
 theme: jekyll-theme-cayman
 exclude:
   - LICENSE
+
+# 2026-10-28：正本是 GitHub 仓库页，网页版每页的 canonical 指回对应的 github.com 地址（jekyll-seo-tag 读 canonical_url）
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/ai-subscription-guide-cn"
+  - scope:
+      path: "docs/chatgpt-plus.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/ai-subscription-guide-cn/blob/main/docs/chatgpt-plus.md"
+  - scope:
+      path: "docs/claude.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/ai-subscription-guide-cn/blob/main/docs/claude.md"
+  - scope:
+      path: "docs/faq.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/ai-subscription-guide-cn/blob/main/docs/faq.md"

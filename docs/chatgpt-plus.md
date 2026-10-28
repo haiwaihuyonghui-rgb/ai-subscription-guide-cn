@@ -1,6 +1,6 @@
 # ChatGPT Plus 国内怎么开：档位、路线、代充流程和开通后自查
 
-> 最后更新：2026-10-26 · 虚拟卡一段去掉具体平台名字，只保留通用风险说明。
+> 最后更新：2026-10-28 · 自家商城链接减到 5 个以内，常见问题的延伸阅读改为同一作者的 GitHub 仓库；仓库许可证改为 CC BY-ND 4.0。
 
 更新于 2026-10-20 · 返回 [总目录](../README.md)
 
@@ -33,7 +33,7 @@
 
 **虚拟信用卡。** 按官方价付款，但开卡费、充值手续费、汇率差叠加后实际花费更高，拒付率高，平台有停服风险。已有虚拟卡平台停服，或恢复后不再提供卡号（公开报道）。不建议作为长期方案。详见 [用虚拟卡订阅 ChatGPT 靠谱吗](https://kw.yaoyao.chat/guide/xuni-ka.html)。
 
-**外区 Apple ID + 礼品卡，在 iPhone App 内订阅。** 不用信用卡。步骤：注册一个外区 Apple ID，买同一地区的 App Store 礼品卡兑换到余额，用这个 Apple ID 下载 ChatGPT App，登录自己的 ChatGPT 账号，在 App 内订阅。坑：Apple ID 地区和礼品卡必须一致；余额不足下月续不上；取消只能在手机订阅设置里；价格由应用商店定。详见 [礼品卡是什么、国内能用吗](https://kw.yaoyao.chat/guide/lipin-ka.html)。
+**外区 Apple ID + 礼品卡，在 iPhone App 内订阅。** 不用信用卡。步骤：注册一个外区 Apple ID，买同一地区的 App Store 礼品卡兑换到余额，用这个 Apple ID 下载 ChatGPT App，登录自己的 ChatGPT 账号，在 App 内订阅。坑：Apple ID 地区和礼品卡必须一致；余额不足下月续不上；取消只能在手机订阅设置里；价格由应用商店定。礼品卡的种类和限制详见同一作者的 [chatgpt-plus-wu-xinyongka](https://github.com/haiwaihuyonghui-rgb/chatgpt-plus-wu-xinyongka#方法三礼品卡)。
 
 **代充（订阅代付）。** 卖家替你付款，会员开在你自己的账号上，你用国内方式付给卖家。不用折腾卡，但要挑卖家，而且不自动续费，到期自己再买。详见下一节。
 
@@ -59,17 +59,17 @@
 
 ## 六、常见问题
 
-- **付款提示"账单信息无效"。** 核对卡号、有效期、账单地址（填发卡行登记的真实地址），清缓存再试，不要短时间反复点付款。见 [账单信息无效怎么办](https://kw.yaoyao.chat/guide/chatgpt-billing-invalid.html)。
-- **显示"已有订阅 / 无法升级"。** 账号上已有一份订阅；Plus 升 Pro 要补差价。见 [已有订阅怎么办](https://kw.yaoyao.chat/guide/plus-sheng-pro.html)。
-- **代充提交失败。** 多数是登录信息过期或复制不完整，重新复制再提交。见 [Plus 充值失败 6 种情况](https://kw.yaoyao.chat/guide/plus-shibai.html)。
+- **付款提示"账单信息无效"。** 核对卡号、有效期、账单地址（填发卡行登记的真实地址），清缓存再试，不要短时间反复点付款。见 [gpt-chongzhi 报错第 1 条](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi#报错--常见问题大全)。
+- **显示"已有订阅 / 无法升级"。** 账号上已有一份订阅；Plus 升 Pro 要补差价。见 [gpt-chongzhi 报错第 3 条](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi#报错--常见问题大全)。
+- **代充提交失败。** 多数是登录信息过期或复制不完整，重新复制再提交。见 [gpt-chongzhi 报错第 12 条](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi#报错--常见问题大全)。
 - **用手机号登录的账号怎么开。** 见 [手机验证码登录怎么开 Plus](https://kw.yaoyao.chat/guide/plus-yanzhengma.html)。
-- **Plus 每天能用多少。** 见 [Plus 额度怎么算](https://kw.yaoyao.chat/guide/plus-edu.html)。
-- **想退款。** 官方条款下订阅费一般不退；代充的不能向 OpenAI 申请，按卖家售后规则。见 [ChatGPT 订阅能退款吗](https://kw.yaoyao.chat/guide/chatgpt-tuikuan.html)。
-- **账号被停用。** 常见原因是多人共用、频繁切换地区、付款被撤销、违规内容。见 [ChatGPT 封号原因有哪些](https://kw.yaoyao.chat/guide/chatgpt-fenghao.html)。
+- **Plus 每天能用多少。** 没有固定的每日条数，按滚动时间窗口计算，到上限后要等重置。见 [gpt-chongzhi 报错第 9 条](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi#报错--常见问题大全)。
+- **想退款。** 官方条款下订阅费一般不退；代充的不能向 OpenAI 申请，按卖家售后规则。见 [gpt-chongzhi 报错第 7 条](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi#报错--常见问题大全)。
+- **账号被停用。** 常见原因是多人共用、频繁切换地区、付款被撤销、违规内容。见 [gpt-chongzhi 报错第 11 条](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi#报错--常见问题大全)。
 
 ## 参考
 
 - [ChatGPT 支持的国家和地区](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries-and-territories)（OpenAI 帮助中心）
 - [OpenAI 使用条款](https://openai.com/policies/terms-of-use/)
 - [OpenAI 定价页](https://openai.com/chatgpt/pricing/)
-- [教程目录](https://kw.yaoyao.chat/guide/)
+- [全部教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)（同一作者整理，非官方）
